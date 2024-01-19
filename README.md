@@ -1,4 +1,5 @@
 
+![logo](https://github.com/Ammar-Usman/Ammar-Usman/blob/main/Black%20Technology%20LinkedIn%20Banner.gif)
 
 
 <h1 align="center">Hi 👋, I'm Ammar Usman</h1>
